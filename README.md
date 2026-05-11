@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+Smart+Attendance+Management+System;Hybrid+Facial+Recognition+Platform;Built+with+Python+Django+React+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=AI+Smart+Attendance+Management+System;Hybrid+Facial+Recognition+Platform;Built+with+Python+Django+React+AI" />
 </p>
 
 # 🎓 AI Smart Attendance Management System
@@ -10,30 +10,71 @@
 
 ## 🚀 Product Showcase
 
-### Dashboard Showcase
-
-<img src="images/YOUR-FIRST-IMAGE.png" width="100%">
+<p align="center">
+  <img src="images/showcase1.png" width="900">
+</p>
 
 ---
 
-### Device Showcase
-
-<img src="images/YOUR-SECOND-IMAGE.png" width="100%">
+<p align="center">
+  <img src="images/showcase2.png" width="900">
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
+### Frontend
+- React.js
+- Axios
+- React Router
+- SweetAlert2
+
+### Backend
 - Python
 - Django
-- React
+- Django REST Framework
+- JWT Authentication
+
+### Database
 - PostgreSQL
+
+### AI Engine
 - OpenCV
 - YuNet
 - SFace
+
+### Security
+- AES-256 Encryption
+- Role-Based Access Control
+
+---
+
+## 🤖 Core Features
+
+✅ Real-time facial recognition  
+✅ Automated attendance logging  
+✅ Teacher dashboard  
+✅ Student portal  
+✅ Secure biometric enrollment  
+✅ Liveness detection  
+✅ Analytics and reporting  
+
+---
+
+## 📈 Performance
+
+| Metric | Result |
+|--------|--------|
+| Recognition Accuracy | 94%+ |
+| Detection Speed | <10ms |
+| Authentication | JWT |
+| Database | PostgreSQL |
 
 ---
 
 ## 👨‍💻 Developed By
 
-Muhammad Asher Mehmood
+**Muhammad Asher Mehmood**
+
+Python • Django • AI/ML • Computer Vision • Automation
